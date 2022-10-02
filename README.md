@@ -32,16 +32,20 @@
   <a href="https://github.com/Itainari"></a>   
 </p>
 
-<h2 align="center">My github profile stastictics.</h2>
+---
+
+## Statistics
+
+| <a href="https://github.com/Itainari/github-readme-stats"><img src="https://github-readme-stats-ooliver1.vercel.app/api/?username=Itainari&theme=midnight-purple&count_private=true&include_all_commits=true&show_icons=true&hide_border=true" alt="Itainari's GitHub stats" align="center" /></a> | <a href="https://github.com/Itainari/github-readme-stats"><img src="https://github-readme-stats-ooliver1.vercel.app/api/top-langs?username=Itainari&theme=midnight-purple&count_private=true&exclude_repo=obsidi&layout=compact&langs_count=10&hide_border=true" alt="Itainari's GitHub stats" align="center" /></a> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+[![Itainari's GitHub graph](https://activity-graph.herokuapp.com/graph?username=Itainari&bg_color=000000&color=9745f5&line=9745f5&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-logoity-graph)
 
 
+**Note**: this does not represent skill level but purely the amount of code in each language on my profile.
 
-<p align="center">
-    <a href="https://github.com/Itainari">
-        <img src="https://github-streak.herokuapp.com/Itainari?theme=dark" alt="" />
-    </a>
-</p><br>
-<a href="https://github.com/Itainari"><img alt="Itainari's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Itainari&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
+---
+
 
 
 </pre><br>
@@ -63,3 +67,4 @@
 </p>
 
 <h2 align="center"> Copyright © 2022 - 2022  
+
