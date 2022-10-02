@@ -55,7 +55,7 @@
 <h2 align="center"</h2>
 
 [![Telegram](https://img.shields.io/badge/-Itainari-%23282a36?style=for-the-badge&logo=Telegram)]()
-[![YouTube Channel](https://img.shields.io/badge/-YouTube-%23282a36?style=for-the-badge&logoColor=ff0000&logo=YouTube)]()
+[![YouTube Channel](https://img.shields.io/badge/-YouTube-%23282a36?style=for-the-badge&logoColor=ff0000&logo=YouTube)](https://www.youtube.com/channel/UCPvrfPho0ZqLGhZth1Kr5nQ)
 
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
