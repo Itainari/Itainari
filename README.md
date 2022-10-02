@@ -22,6 +22,8 @@
 <h2 align="center">Languages and Tools</h2>
 
 <p align="center">
+<img alt="Discord" src="https://img.shields.io/badge/-IDA-090909?style=for-the-badge&logo=ida64&logoColor=6296CC"></a> 
+<img alt="Discord" src="https://img.shields.io/badge/-X64DBG-090909?style=for-the-badge&logo=ida64&logoColor=6296CC"></a> 
    <img alt="Discord" src="https://img.shields.io/badge/assembly-090909?style=for-the-badge&logo=assembly&logoColor=E5D3FF"></a>  
     <img alt="Discord" src="https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=c&logoColor=6296CC"></a>  
      <img alt="Discord" src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC"></a>  
