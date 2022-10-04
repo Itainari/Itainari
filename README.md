@@ -16,7 +16,7 @@
   ----
 
 <p align="center">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31skgtmcd7rj7l7sygrhbviifqxq" alt="Your alt what" width="300" align/>
+<img src="https://github-readme-stats.vercel.app/api?username=31skgtmcd7rj7l7sygrhbviifqxq&show_icons=true" alt="Your alt what" width="300" align/>
 </p>
 
 <h2 align="center">Languages and Tools</h2>
